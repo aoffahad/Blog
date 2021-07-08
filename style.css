@@ -1,0 +1,180 @@
+*{
+    padding: 0;
+    margin: 0;
+    outline: 0;
+    border: 0;
+}
+body{
+    background-color: rgba(90, 86, 86, 0.548);
+}
+a{
+    text-decoration: none;
+}
+
+.brand-area{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+   
+}
+
+.full{
+    margin-left:   50px;
+    margin-right: 90px;
+}
+
+
+ .nav{
+    float: left;
+    background-color: white;
+     width: 1200px;
+     border: 6px solid white;
+    
+    /*height: 50px;*/
+} 
+
+.firstul{
+   list-style: none; 
+   
+   /* position: relative; */
+}
+
+ .firstli{
+    float: left;
+} 
+
+.firsta{
+    font-size: 20px;
+    color: rgb(12, 12, 12);
+    text-transform: capitalize;
+    text-decoration: none;
+    padding: 10px 31px;
+ 
+    display: inline-block;
+
+}
+.search{
+    border: 2px solid black;
+    background-color:silver;
+    border-radius: 10px;
+    float: right;
+    margin-top: 6px;
+    margin-right: 20px;
+    padding: 8px;
+
+}
+.search:hover{
+   color: black;
+   background-color: whitesmoke;
+   width: 200px;
+   
+}
+
+.bannerimg{
+    width: 1200px;
+    height: 400px;
+    margin-top: 15px;
+      border: 6px solid white;  
+   
+}
+.card{
+    margin-top: 10px;
+    /* display: inline-block; */
+   
+}
+.firstcard{
+ width: 23%;
+ display: inline-block;
+ background-color: white;
+ margin-right: 1px;
+ padding: 10px; 
+
+}
+.firstcardimg{
+    width: 100%;
+    height: 300px;
+      /* border: 6px solid white;  */
+      
+}
+.firstcardpara{
+    font-size: 15px;
+    font-family:sans-serif;
+    padding: 15px;
+}
+.date{
+    float: right;
+}
+
+.welcome{
+    background-color: white;
+    margin-top: 10px;
+    height: 250px;
+    width: 100%;
+}
+.image{
+width: 25%;
+/* height: 100px; */
+display: inline-block;
+}
+
+.oneimg{
+    width: 45%;
+    display: inline-block;
+    padding: 10px 10px
+}
+.twoimg{
+    width: 45%;
+   float: right;
+    padding-top: 10px; 
+    
+  
+}
+
+.welcometext{
+    width: 75%;
+    float: right;
+   
+}
+.welcomeheading{
+    padding-left: 20px;
+    
+}
+.welcomepara{
+    padding-left: 20px;
+    padding-right: 10px;
+}
+.datetime{
+    float: right;
+    margin-top: 70px;
+    margin-right: 10px;
+}
+.footer{
+    float: left;
+    background-color: white;
+     width: 1200px;
+     border: 6px solid white;
+     margin-top: 10px;
+     margin-bottom: 10px;
+    
+}
+
+.secondul{
+    list-style: none; 
+}
+.secondli{
+float: right;
+}
+
+.seconda{
+    font-size: 15px;
+color: rgba(12, 12, 12, 0.651);
+text-transform: capitalize;
+text-decoration: none;
+padding: 10px 10px;
+
+display: inline-block;
+}
+.thirdli{
+    float: left;
+}
